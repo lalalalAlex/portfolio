@@ -1,0 +1,33 @@
+body{
+    background-image: url(./image035-32-scaled.jpg);
+    background-repeat: no-repeat;
+}
+.bibi{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    gap: 10px;
+}
+.cont{
+    display: flex;
+    gap: 150px;
+    background-color: none;
+}
+p{
+    font-size: 25px;
+    hyphens: auto;
+    color: white;
+    font-family:'Times New Roman';     
+}
+img { 
+    width: 500px;
+}
+.logo{
+    margin-right: 40px ;
+    color: white;
+    font-size: 50px;
+}
+.fa-brands{
+    color: white;
+    font-size: 35px;
+}
